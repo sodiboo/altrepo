@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Jelly Drift",
-      "bundleIdentifier": "com.terrain.JellyDrift",
+      "bundleIdentifier": "com.Terrain.JellyDrift",
       "developerName": "Dani",
       "subtitle": "haha car go vroom vroom zoom drift skkrrt boom",
       "localizedDescription": "A game about drifting and high speed, high octane gameplay",
