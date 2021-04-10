@@ -1,6 +1,41 @@
 {
-    "name": "Terrain's AltStore repo (empty)",
-    "identifier": "pw.terrain.repo",
-    "apps": [],
-    "news": []
+  "name": "Terrain's AltStore repo",
+  "identifier": "pw.terrain.repo",
+  "apps": [
+    {
+      "name": "Jelly Drift",
+      "bundleIdentifier": "com.terrain.JellyDrift",
+      "developerName": "Dani",
+      "subtitle": "haha car go vroom vroom zoom drift skkrrt boom",
+      "localizedDescription": "A game about drifting and high speed, high octane gameplay",
+      "iconURL": "https://alt.terrain.pw/jellydrift/icon.png",
+      "tintColor": "ffff00",
+      "screenshotURLs": [
+        "https://alt.terrain.pw/jellydrift/screen0.png",
+        "https://alt.terrain.pw/jellydrift/screen1.png",
+        "https://alt.terrain.pw/jellydrift/screen2.png",
+        "https://alt.terrain.pw/jellydrift/screen3.png",
+        "https://alt.terrain.pw/jellydrift/screen4.png",
+        "https://alt.terrain.pw/jellydrift/screen5.png",
+        "https://alt.terrain.pw/jellydrift/screen6.png",
+        "https://alt.terrain.pw/jellydrift/screen7.png",
+        "https://alt.terrain.pw/jellydrift/screen8.png",
+        "https://alt.terrain.pw/jellydrift/screen9.png",
+        "https://alt.terrain.pw/jellydrift/screen10.png",
+        "https://alt.terrain.pw/jellydrift/screen11.png",
+        "https://alt.terrain.pw/jellydrift/screen12.png",
+        "https://alt.terrain.pw/jellydrift/screen13.png",
+        "https://alt.terrain.pw/jellydrift/screen14.png",
+        "https://alt.terrain.pw/jellydrift/screen15.png",
+        "https://alt.terrain.pw/jellydrift/screen16.png",
+        "https://alt.terrain.pw/jellydrift/screen17.png"
+      ],
+      "version": "1.0.0",
+      "versionDate": "2021-04-10T00:00:00+0000",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/Terrain2/Jelly-Drift/releases/download/1.0.0/com.Terrain.JellyDrift.ipa",
+      "size": 228999108
+    }
+  ],
+  "news": []
 }
